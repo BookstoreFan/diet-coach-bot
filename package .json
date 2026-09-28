@@ -1,0 +1,12 @@
+{
+  "name": "diet-coach-bot",
+  "version": "1.0.0",
+  "description": "LINE AI diet coach bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
